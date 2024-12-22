@@ -1,0 +1,9 @@
+{
+  "sensorId": "air_temperature_01",
+  "sensorType": "Air Temperature Sensor",
+  "data": {
+    "value": 23.5,
+    "unit": "°C"
+  },
+  "timestamp": "2024-06-12T12:00:00Z"
+}

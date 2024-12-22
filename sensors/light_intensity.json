@@ -1,0 +1,9 @@
+{
+  "sensorId": "light_intensity_01",
+  "sensorType": "Photometer",
+  "data": {
+    "value": 1200,
+    "unit": "Lux"
+  },
+  "timestamp": "2024-06-12T12:00:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "sensorId": "soil_moisture_01",
+  "sensorType": "Capacitive Soil Moisture Sensor",
+  "data": {
+    "value": 45.2,
+    "unit": "%"
+  },
+  "timestamp": "2024-06-12T12:00:00Z"
+}
