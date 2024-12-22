@@ -1,0 +1,19 @@
+{
+  "sensorId": "npk_01",
+  "sensorType": "NPK Sensor",
+  "data": {
+    "nitrogen": {
+      "value": 12.5,
+      "unit": "ppm"
+    },
+    "phosphorus": {
+      "value": 5.3,
+      "unit": "ppm"
+    },
+    "potassium": {
+      "value": 7.8,
+      "unit": "ppm"
+    }
+  },
+  "timestamp": "2024-06-12T12:00:00Z"
+}

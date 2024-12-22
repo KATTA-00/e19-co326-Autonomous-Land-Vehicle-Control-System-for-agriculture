@@ -1,0 +1,9 @@
+{
+  "sensorId": "soil_temperature_01",
+  "sensorType": "Thermistor",
+  "data": {
+    "value": 22.5,
+    "unit": "°C"
+  },
+  "timestamp": "2024-06-12T12:00:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "sensorId": "air_humidity_01",
+  "sensorType": "Humidity Sensor",
+  "data": {
+    "value": 60.0,
+    "unit": "%"
+  },
+  "timestamp": "2024-06-12T12:00:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "sensorId": "soil_ph_01",
+  "sensorType": "Soil pH Meter",
+  "data": {
+    "value": 6.5,
+    "unit": "pH"
+  },
+  "timestamp": "2024-06-12T12:00:00Z"
+}
